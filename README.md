@@ -1,6 +1,6 @@
 ## Hello World, I'm Jennifer 👋 
 
-![Hello](comp.jpeg).{:  .callout}
+---![Hello](comp.jpeg)---
 
 - ✍️ You can find my projects here portfolio
 - 🔭 I’m currently working on my portfolio project
