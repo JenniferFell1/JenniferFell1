@@ -8,7 +8,7 @@
  ### 🖐 About Me
  
 - ✍️ You can find my projects here **[portfolio]
-- 🎨 You can find my data vizzes **[here]**(https://public.tableau.com/app/profile/jennifer.fell2971)
+- 🎨 You can find my data vizzes **[here](https://public.tableau.com/app/profile/jennifer.fell2971)**
  - ✍️ You can find my projects here **[portfolio]
 - 🔭 I’m currently working on my **portfolio**
 - 🌱 I’m currently learning **webscrapping**
