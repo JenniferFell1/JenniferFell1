@@ -1,6 +1,6 @@
 ## Hello World, I'm Jennifer 👋 
 
-<image align="right" width="100" height="100" src="https://github.com/JenniferFell1/JenniferFell1#:~:text=2%20minutes%20ago-,comp.jpeg,-Add%20files%20via)">
+<image align="right" width="100" height="100" src="comp.jpeg">
  
 
 - ✍️ You can find my projects here portfolio
