@@ -1,11 +1,7 @@
 ## Hello World, I'm Jennifer 👋 
 
-<img
-     align="right"
-     width="100"
-     height="100"
-     src="https://www.vecteezy.com/vector-art/2311573-black-woman-sitting-on-a-sofa-and-working-on-laptop-freelancer-home-office-concept-vector-illustration)"
-     ![Hello](comp.jpeg)
+
+ ![Hello](comp.jpeg)
 - ✍️ You can find my projects here portfolio
 - 🔭 I’m currently working on my portfolio project
 - 🌱 I’m currently learning Seaborn 
