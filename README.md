@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**JenniferFell1/JenniferFell1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my portfolio project
 - 🌱 I’m currently learning Seaborn 
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Here!
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I'm learning to knit socks 🧦 
--->
+
