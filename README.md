@@ -3,6 +3,8 @@
 <image align="right" width="450" height="320" src="comp.jpeg">
  
 
+ 
+ 
 - ✍️ You can find my projects here portfolio
 - 🔭 I’m currently working on my portfolio project
 - 🌱 I’m currently learning Seaborn 
