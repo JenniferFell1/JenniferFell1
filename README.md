@@ -21,14 +21,14 @@
 
  <p align="left"> 
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
+    <a href="https://www.oracle.com/index.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/offices/30/000000/r.png"/> </a> 
     <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/> </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ms-excel.png"/> </a> 
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a> 
-    <a href="https://www.oracle.com/index.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
