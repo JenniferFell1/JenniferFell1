@@ -3,7 +3,7 @@
 <image align="right" width="450" height="320" src="comp.jpeg">
  
 
- #### I'm a Junior Data Analyst passionate about creating stories with data!
+
  
  ### 🖐 About Me
  
