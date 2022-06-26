@@ -9,7 +9,7 @@
  
 - ✍️ You can find my projects here **[portfolio]
 - 🔭 I’m currently working on my **portfolio**
-- 🌱 I’m currently learning **Seaborn**
+- 🌱 I’m currently learning **webscrapping**
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with **Python code** 👩‍💻 
 - 💬 Ask me about Data Analysis Book Recommendations 📚 
