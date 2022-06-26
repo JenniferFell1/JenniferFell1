@@ -8,7 +8,7 @@
  ### 🖐 About Me
  
 - ✍️ You can find my projects here **[portfolio]
-- 🔭 I’m currently working on my portfolio project
+- 🔭 I’m currently working on my **portfolio**
 - 🌱 I’m currently learning **Seaborn**
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with **Python code** 👩‍💻 
