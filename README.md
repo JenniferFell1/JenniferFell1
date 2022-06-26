@@ -1,4 +1,4 @@
-## Hello World, I'm Jennifer! 👋 
+## Hello World, I'm Jennifer! 🌻  
 
 <image align="right" width="450" height="320" src="comp.jpeg">
  
