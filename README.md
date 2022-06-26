@@ -15,7 +15,6 @@
 - 🤔 I’m looking for help with **Python code** 👩‍💻 
 - 💬 Ask me about Data Analysis book recommendations 📚 
 - 📫 How to reach me: Here!
-- 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I'm learning to knit socks 🧦 
 
 ## 🚀 Languages and Tools:
