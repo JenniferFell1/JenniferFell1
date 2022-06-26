@@ -1,6 +1,6 @@
 ## Hello World, I'm Jennifer 👋 
 
-<image align="right" width="100" height="100" src="comp.jpeg">
+<image align="right" width="500" height="320" src="comp.jpeg">
  
 
 - ✍️ You can find my projects here portfolio
