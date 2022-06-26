@@ -7,7 +7,7 @@
  
  ### 🖐 About Me
  
-- ✍️ You can find my projects here portfolio
+- ✍️ You can find my projects here **[portfolio]
 - 🔭 I’m currently working on my portfolio project
 - 🌱 I’m currently learning Seaborn 
 - 👯 I’m looking to collaborate on open source
@@ -17,3 +17,4 @@
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I'm learning to knit socks 🧦 
 
+## Languages and Tools
