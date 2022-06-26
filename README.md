@@ -17,4 +17,4 @@
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I'm learning to knit socks 🧦 
 
-## 🔧  Languages and Tools:
+## 🚀 Languages and Tools:
