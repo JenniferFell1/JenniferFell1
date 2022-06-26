@@ -1,6 +1,6 @@
 ## Hello World, I'm Jennifer 👋 
 
----![Hello](comp.jpeg)---
+![Hello](comp.jpeg){: style="float:right'}
 
 - ✍️ You can find my projects here portfolio
 - 🔭 I’m currently working on my portfolio project
