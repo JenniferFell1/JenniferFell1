@@ -5,14 +5,13 @@
 
 
  
- ### 🖐 About Me
+ ### ✋🏾 About Me
  
-- ✍️ You can find my projects **[here](https://github.com/JenniferFell1/JF_Portfolio.git)**
+- ✍🏾 You can find my projects **[here](https://github.com/JenniferFell1/JF_Portfolio.git)**
 - 🎨 You can find my data vizzes on **[Tableau Public](https://public.tableau.com/app/profile/jennifer.fell2971)**
 - 🔭 I’m currently working on my **portfolio**
 - 🌱 I’m currently learning **webscrapping**
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with **Python code** 👩‍💻 
+- 🤔 I’m looking for help with **Python code** 👩🏾‍💻 
 - 💬 Ask me about Data Analysis book recommendations 📚 
 - 📫 How to reach me: Here!
 - ⚡ Fun fact: I'm learning to knit socks 🧦 
